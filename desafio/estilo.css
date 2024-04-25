@@ -3,33 +3,40 @@ html{
 }
 
 .container{
-    width: 100%;
-    margin: auto;
-    display:flex;
+display: flex;
+width: 335px;
+margin: 0 350px 0 350px;
 }
 
 .box{
-    width: 335px;
+    width: 345px;
     border: 1px #dadada solid;
     border-radius: 8px;
     padding-bottom: 20px;
     justify-content: space-between;
     flex-direction: column;
+    margin: 50px 25px 0;
 }
 
 .box img{
-    width: 100%;
+    width: 345px;
     height: 200px;
 }
 
 .box h2{
+    margin-top: 20px;
+    height: 60px;
     text-align: center;
     font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.box a {
+    margin: 35px 85px 0 85px;
+}
 
 .box p{
-    height: 45px;
+    height: 35px;
+    margin: 0px 25px 25px 8px;
     text-align: center;
     font-size: 14px;
     color: #333;
