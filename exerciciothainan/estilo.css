@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+}
+
+.container{
+
+}
+
+.box{
+    width: 335px;
+    border: 1px #dadada solid;
+    border-radius: 8px;
+    padding-bottom: 20px;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.box img{
+}
+
+.box h2{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.box p{
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.botao{
+    padding: 10px 30px;
+    background-color: #ffbc0d;
+    color: #c08b00;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    margin: 10px auto;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
