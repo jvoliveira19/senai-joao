@@ -1,0 +1,28 @@
+mudar cor de abas
+mudar o tamanho do lanche 
+mudar a letra 
+mudar tamanho de fonte
+
+(o site é uma filial 24h da empresa)
+
+
+sites dentro de um (conteiner) "enquadro"
+
+w3c school "site"
+
+
+adaptavel- feito para dispositivos um dispositivo e adaptavel para todos os dispositivos
+responsivo- feito para um dispositivo e modificado para cada dispositivo
+
+centralizar por grids
+
+
+<> tag aberta
+</-> tag fechada
+<-/>
+
+body= corpo
+head= cabeçalho
+title= titulo
+html= arquivo
+p= paragrafo
