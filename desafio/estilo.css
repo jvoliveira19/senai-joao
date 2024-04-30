@@ -4,8 +4,8 @@ html{
 
 .container{
 display: flex;
-width: 335px;
 margin: 0 350px 0 350px;
+max-width: 1024px;
 }
 
 .box{
