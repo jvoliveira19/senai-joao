@@ -5,7 +5,7 @@
     color: #fff;
     padding: 30px;
     margin: 30px;
-    display: flex;
+    display: block;
 }
 .white{
     width: 400px;
@@ -13,8 +13,8 @@
     border: 1px solid #000;
     color: #333;
     padding: 30px;  
-    margin: 30px;
-    display: flex;   
+    margin: 30px; 
+    display: block; 
 }
 .container{
     max-width: 1024px;
