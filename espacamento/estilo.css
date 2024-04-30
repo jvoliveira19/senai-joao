@@ -5,7 +5,6 @@
     color: #fff;
     padding: 30px;
     margin: 30px;
-    max-width: 768px;
 }
 .white{
     width: 400px;
@@ -14,7 +13,6 @@
     color: #333;
     padding: 30px;  
     margin: 30px; 
-    max-width: 768px; 
 }
 .container{
     max-width: 1024px;
@@ -25,6 +23,7 @@
 @media screen and (max-width:1024px) {
     .container{
         flex-direction: column; /*direção dos conteudos do displey:flex */
+        max-width: 768px;
     }
     
 }
