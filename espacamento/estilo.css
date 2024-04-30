@@ -19,3 +19,10 @@
     margin: 0 auto; 
     display: flex;  
 }
+
+@media screen and (max-width:1024px) {
+    .container{
+        flex-direction: column; /*direção dos conteudos do displey:flex */
+    }
+    
+}
