@@ -24,7 +24,7 @@
     .container{
         flex-direction: column; /*direção dos conteudos do displey:flex */
     }  
-    .black .white{
+    .black, .white{
         max-width: 100%;
     }  
 }
