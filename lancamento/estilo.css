@@ -32,9 +32,17 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 10px;
 }
-.botao:hover{
-    background-color: grey;
-    color: red;
+
+.box:hover{
+    background-color: #333;
+    align-content: flex-end;
+    .botao{
+           background-color: red;
+           
+    } 
+    img{
+        display:none;
+    }  
 }
 .box p{
     padding-bottom: 25px ;
