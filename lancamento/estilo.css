@@ -35,20 +35,21 @@
 
 .box:hover{
     background-color: #333;
-    align-content: flex-end;
+    transition: 1s; /* suavizar a  cor do box em 1 segundo */
     .botao{
            background-color: red;
-           
+           transition: 1s; /* suavizar a cor do botão em 1 segundo */      
     } 
     img{
-        display:none;
-    }  
+        width: 85%;
+        transition: 1s;
+    }
 }
 .box p{
     padding-bottom: 25px ;
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:1024px){  /*respansividade*/
     .container{
     flex-direction: column;
     }
